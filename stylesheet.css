@@ -331,8 +331,8 @@ animation: slideRight 0.7s ease-in forwards;
     flex-basis: 60%;
 
 }
-.subtitle{
-    font-size: 60px;
+.sub-title{
+    font-size: 70px;
     font-weight: 600;
     color: white ;
 }
